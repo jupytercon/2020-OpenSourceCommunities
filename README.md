@@ -8,17 +8,23 @@
 
 - **Subtitle:** Fundamentals of Open Source Communities
 - **Duration:** 2h (120 minutes)
-- **Audience level**: Anyone with interest in learning about Open Source communities
+- **Audience level**: Anyone interested in learning about Open Source communities
 - **Prerequisite**: *None*
-- **Tutorial files**: This tutorial is organised in 4 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
-  - Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
-  - All the presentations used in the introductory videos are provided in the [presentation directory](./presentation).
 
 ### Description
 
 **Short Description:**
 
-This tutorial is a part of Jupyter 2020 series on Open Source Fundamentals
+This tutorial is a part of Jupyter 2020 series on Open Source Fundamentals.
+It is organised in 4 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
+
+1. Diversity, Inclusion, Inclusiveness
+2. Communities of Practice
+3. Community Collaboration
+4. Decision-Making Processes
+
+Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
+All the presentations used in the introductory videos are provided in the [presentation directory](./presentation).
 
 **Session detail:**
 

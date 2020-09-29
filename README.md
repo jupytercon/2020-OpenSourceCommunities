@@ -24,7 +24,7 @@ It is organised in 4 short modules that are developed in Jupyter Notebooks and p
 4. Decision-Making Processes: TBA
 
 Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
-All the presentations used in the introductory videos are provided in the [presentation directory](./presentation).
+All the presentations used in the introductory videos are provided in the [presentation directory](./presentations).
 
 **Session detail:**
 

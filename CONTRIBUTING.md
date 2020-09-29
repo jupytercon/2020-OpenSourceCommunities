@@ -34,7 +34,7 @@ clear or share examples.
 ---
 
 - For open tasks in this repository, please see the
-[Issues sections](./issues) and [Pull Resquests](./pulls) in this repository.
+[Issues sections](https://github.com/jupytercon/2020-OpenSourceCommunities/issues) and [Pull Requests](https://github.com/jupytercon/2020-OpenSourceCommunities/pulls) in this repository.
 - Raise mistakes, error or missing information on these repositories by opening Pull Request
   - Read details on [how to open a Pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
   - Submit trivial fixes (for example, a typo, a broken link or an obvious error)

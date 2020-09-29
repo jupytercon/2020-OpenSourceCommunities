@@ -1,42 +1,53 @@
-# JupyterCon Tutorial
+# JupyterCon Tutorial 2020
 
-[JupyterCon](https://jupytercon.com) will use this template to create a new repository for each tutorial, with speakers added as collaborators. 
+- Website: https://jupytercon.com/
+- Location: Online
+- Date: 5-9 October 2020
 
-We also include here [instructions for tutorial speakers](https://github.com/jupytercon/tutorial2020/blob/master/Tutorial_Speakers_Guide.md). 
-Please follow these instructions carefully, and email us if you have questions: [jupytercon-tutorials@numfocus.org](mailto:jupytercon-tutorials@numfocus.org)
+## Title: Open Source Communities: Inclusive Practices, Collaboration & Decision-Making
 
-You can delete this file (or rename it) and replace it by a README file that targets the contents of this repository, populated with your tutorial materials.
+- **Subtitle:** Fundamentals of Open Source Communities
+- **Duration:** 2h (120 minutes)
+- **Audience level**: Anyone with interest in learning about Open Source communities
+- **Prerequisite**: *None*
+- **Tutorial files**: This tutorial is organised in 4 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
+  - Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
+  - All the presentations used in the introductory videos are provided in the [presentation directory](./presentation).
 
-## Tutorial Chairs for 2020
+### Description
 
-- Tania Allard, Microsoft
-- Gerard Gorman, University College London
+**Short Description:**
 
-## General information
+This tutorial is a part of Jupyter 2020 series on Open Source Fundamentals
 
-JupyterCon 2020 is an online event that places heavy emphasis on providing learning opportunities for all participants. 
-It is a project of [NumFOCUS](https://numfocus.org), with a fully volunteer team of organizers.
+**Session detail:**
 
-### What is NumFOCUS?
+The tutorial will introduce our learners to basic concepts and practices they can learn in order to build diverse and inclusive communities in Open Source.
+- In the first module, we will discuss policies and actions that are important to design and promote inclusiveness Open Source projects
+- In the second module, we will introduce what Open Source Communities of Practice are, give examples, discuss how to support diverse members of Open Source Communities, and explain how we can move "from default to inclusive practices" in Open resources
+- The third modules builds on the first and second modules and discusses collaborations in Open community, pathways for engagement with the contributors of Open Source and resources that make these collaborations secure, effective and community-oriented
+- Finally, in the last module we learn about decision-making processes in Open Source communities by explaining contributor roles, structure and leadership of Open Source communities, and ways to recognise volunteers of Open Source community
 
-> NumFOCUS is a 501(c)-3 non-profit in the United States. 
-Its mission is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs. 
-NumFOCUS envisions an inclusive scientific and research community that utilizes actively supported open source software to make impactful discoveries for a better world.
+### Learning outcomes
 
-## Format for tutorials
+In this tutorial, our learners will:
+- understand the roles of diversity and inclusion of open source communities
+- learn about the concept of Community of Practice, how they look like in different Open Source communities, who the members of these communities are and how we can intentionally design a community for participation
+- explore collaborative roles of community members, platforms that facilitate their contributions to a project, channels to attract new contributors, resources that set a common norm in the community and how to design these for inclusion
+- understanding the leadership structure of Open Source, what roles contributors play in the project development processes and how volunteers can be fairly recognised for their work
 
-Tutorials will consist of on-demand video presentations, and written materials presented in Jupyter notebooks. 
-The notebooks should be complete and polished, amply narrated worked-out examples and exercises for participants. 
+### Instructor details
 
-Tutorial basic format:
+- Name: Malvika Sharan
+    - Title: Dr.
+    - Organization: *The Turing Way*, The Alan Turing Institute, London, UK
+    - Biography: Malvika is the community manager of *[The Turing Way](https://the-turing-way.netlify.app)* at [The Alan Turing Institute, UK](https://www.turing.ac.uk/). She works with its community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
+Malvika has a PhD in Bioinformatics and she worked at  European Molecular Biology Laboratory, Germany, that helped her solidify her values as an Open Researcher and community builder.
+She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentoring program, a fellow of the [Software Sustainability Institute](https://www.software.ac.uk/) and a board member of [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/), where she focuses on training resources and fellowship programs to enhance the training, skill building and representation of marginalised groups in data science and bioinformatics.
+    - Photo: [LINK](images/MalvikaSharan.jpg)
 
-- Three or four Jupyter notebooks (at minimum), each notebook corresponding to "one lesson" – printed, estimate between 10–20 pages, or 17 to 35 min to read, per notebook.
-- Estimate for the material to be 1.5 to 3 hours to work through interactively.
-- The notebooks are complemented with videos, 25–30 min in length (not longer); at least one video per notebook.
-- Optional exercises for participants, instrumented for auto-grading.
-- One full tutorial may add up to total-time-on-task by the learners of about 4.5 hours.
-
-## License
-
-The source materials for JupyterCon tutorials are copyright of their authors. 
-We ask that materials be shared under standard public licenses. We recommend code be under BSD-3 or MIT license, and other materials be under a CC-BY Creative Commons Attribution license.
+- Name: Gabriela de Queiroz
+    - Title:
+    - Organization:
+    - Biography:
+    - Photo: [LINK](images/GabrielaDeQueiroz.jpg)

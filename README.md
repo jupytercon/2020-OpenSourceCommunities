@@ -28,7 +28,7 @@ All the presentations used in the introductory videos are provided in the [prese
 
 **Session detail:**
 
-The tutorial will introduce our learners to basic concepts and practices necessaryq to build diverse and inclusive Open Source communities.
+The tutorial will introduce our learners to basic concepts and practices necessary to build diverse and inclusive Open Source communities.
 - In the first module, we will discuss policies and actions that are important to design and promote inclusiveness Open Source projects
 - In the second module, we will introduce what Open Source Communities of Practice are, give examples, discuss how to support diverse members of Open Source Communities, and explain how we can move "from default to inclusive practices" in Open resources
 - The third module builds on the first and second modules and discusses collaborations in Open community, pathways for engagement with the contributors of Open Source and resources that make these collaborations secure, effective and community-oriented

@@ -18,10 +18,10 @@
 This tutorial is a part of the Jupyter 2020 series on Open Source Fundamentals.
 It is organised in 4 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
 
-1. Diversity, Inclusion, Inclusiveness
-2. Communities of Practice
-3. Community Collaboration
-4. Decision-Making Processes
+1. Diversity, Inclusion, Inclusiveness: [1-diversity-inclusion-inclusiveness.ipynb](https://github.com/jupytercon/2020-OpenSourceCommunities/blob/master/notebooks/1-diversity-inclusion-inclusiveness.ipynb)
+2. Communities of Practice: [2-community-of-practice.ipynb](https://github.com/jupytercon/2020-OpenSourceCommunities/blob/master/notebooks/2-community-of-practice.ipynb)
+3. Community Collaboration: [3-community-collaboration.ipynb](https://github.com/jupytercon/2020-OpenSourceCommunities/blob/master/notebooks/3-community-collaboration.ipynb)
+4. Decision-Making Processes: TBA
 
 Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
 All the presentations used in the introductory videos are provided in the [presentation directory](./presentation).

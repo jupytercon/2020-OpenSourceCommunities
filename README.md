@@ -8,25 +8,31 @@
 
 - **Subtitle:** Fundamentals of Open Source Communities
 - **Duration:** 2h (120 minutes)
-- **Audience level**: Anyone with interest in learning about Open Source communities
+- **Audience level**: Anyone interested in learning about Open Source communities
 - **Prerequisite**: *None*
-- **Tutorial files**: This tutorial is organised in 4 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
-  - Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
-  - All the presentations used in the introductory videos are provided in the [presentation directory](./presentation).
 
 ### Description
 
 **Short Description:**
 
-This tutorial is a part of Jupyter 2020 series on Open Source Fundamentals
+This tutorial is a part of the Jupyter 2020 series on Open Source Fundamentals.
+It is organised in 4 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
+
+1. Diversity, Inclusion, Inclusiveness: [1-diversity-inclusion-inclusiveness.ipynb](https://github.com/jupytercon/2020-OpenSourceCommunities/blob/master/notebooks/1-diversity-inclusion-inclusiveness.ipynb)
+2. Communities of Practice: [2-community-of-practice.ipynb](https://github.com/jupytercon/2020-OpenSourceCommunities/blob/master/notebooks/2-community-of-practice.ipynb)
+3. Community Collaboration: [3-community-collaboration.ipynb](https://github.com/jupytercon/2020-OpenSourceCommunities/blob/master/notebooks/3-community-collaboration.ipynb)
+4. Decision-Making Processes: TBA
+
+Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
+All the presentations used in the introductory videos are provided in the [presentation directory](./presentations).
 
 **Session detail:**
 
-The tutorial will introduce our learners to basic concepts and practices they can learn in order to build diverse and inclusive communities in Open Source.
+The tutorial will introduce our learners to basic concepts and practices necessary to build diverse and inclusive Open Source communities.
 - In the first module, we will discuss policies and actions that are important to design and promote inclusiveness Open Source projects
 - In the second module, we will introduce what Open Source Communities of Practice are, give examples, discuss how to support diverse members of Open Source Communities, and explain how we can move "from default to inclusive practices" in Open resources
-- The third modules builds on the first and second modules and discusses collaborations in Open community, pathways for engagement with the contributors of Open Source and resources that make these collaborations secure, effective and community-oriented
-- Finally, in the last module we learn about decision-making processes in Open Source communities by explaining contributor roles, structure and leadership of Open Source communities, and ways to recognise volunteers of Open Source community
+- The third module builds on the first and second modules and discusses collaborations in Open community, pathways for engagement with the contributors of Open Source and resources that make these collaborations secure, effective and community-oriented
+- Finally, in the last module, we learn about decision-making processes in the Open Source communities by explaining contributor roles, structure and leadership of Open Source communities, and ways to recognise volunteers of Open Source community
 
 ### Learning outcomes
 

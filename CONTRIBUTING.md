@@ -47,7 +47,7 @@ Acknowledgements 🙌
 ---
 
 This project is developed and maintained by Malvika Sharan and Gabriela de Queiroz.
-The project is developed as a part of Open Source Fundamental Series in JupyterCon 2020.
+The project is developed as a part of Open Source Fundamentals Series in JupyterCon 2020.
 
 Any contributions made to this tutorial will be fairly recognised and the authors will
 be mentioned in the specific notebooks where the contributions has been made.

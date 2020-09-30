@@ -46,7 +46,7 @@ clear or share examples.
 Acknowledgements 🙌
 ---
 
-This project is developed and maintained by Malvika Sharan and Gabriela de Quieroz.
+This project is developed and maintained by Malvika Sharan and Gabriela de Queiroz.
 The project is developed as a part of Open Source Fundamental Series in JupyterCon 2020.
 
 Any contributions made to this tutorial will be fairly recognised and the authors will

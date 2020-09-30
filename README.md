@@ -47,8 +47,7 @@ She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentori
     - Photo: [LINK](images/MalvikaSharan.jpg)
 
 - Name: Gabriela de Queiroz
-    - Title: Sr. Engineering & Data Science Manager
-    - Organization: IBM, California
-    - Biography: Gabriela de Queiroz is a Sr. Engineering & Data Science Manager at IBM where she manages and leads a team of developers working on Data & AI Open Source projects. She works to democratize AI by building tools and launching new open source projects. She is passionate about making data science available to everybody and is actively involved with several organizations to foster an inclusive community.
-She is the founder of [AI Inclusive](ai-inclusive.org), a global organization that is helping increase the representation and participation of gender minorities in Artificial Intelligence. She is also the founder of [R-Ladies](rladies.org), a worldwide organization for promoting diversity in the R community with more than 180 chapters in 50+ countries. She has worked in several startups where she built teams, developed statistical models and employed a variety of techniques to derive insights and drive data-centric decisions.
-    - Photo: [LINK](images/GabrieladeQueiroz.png)
+    - Title:
+    - Organization:
+    - Biography:
+    - Photo: [LINK](images/GabrielaDeQueiroz.jpg)

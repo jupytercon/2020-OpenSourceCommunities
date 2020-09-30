@@ -74,7 +74,7 @@ disabilities.
 If you experience or witness unacceptable behavior, or have any other concerns,
 please report it by contacting the project developers and maintainers:
 Malvika Sharan (email: malvikasharan@gmail.com)
-and Gabriela de Quieroz (email: contactkroz@gmail.com).
+and Gabriela de Queiroz (email: contactkroz@gmail.com).
 
 To report an issue involving one of the members, please email other members individually.
 

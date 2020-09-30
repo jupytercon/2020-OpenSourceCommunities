@@ -19,7 +19,7 @@ GitHub repository.
 
 Get in touch with the developers and maintainers of this project by dropping an email
 to express your interest to get involved.
-(Malvika Sharan (email: malvikasharan@gmail.com), and/or  Gabriela de Quieroz
+(Malvika Sharan (email: malvikasharan@gmail.com), and/or  Gabriela de Queiroz
 (email: contactkroz@gmail.com).
 
 ⏳ I've read/used the resources and now I have 5 minutes - tell me what I can do

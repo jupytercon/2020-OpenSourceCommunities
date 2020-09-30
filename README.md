@@ -6,7 +6,7 @@
 
 ## Title: Open Source Communities: Inclusive Practices, Collaboration & Decision-Making
 
-- **Subtitle:** Fundamentals of Open Source Communities
+- **Subtitle:** Open Source Fundamentalis
 - **Duration:** 2h (120 minutes)
 - **Audience level**: Anyone interested in learning about Open Source communities
 - **Prerequisite**: *None*
@@ -29,17 +29,17 @@ All the presentations used in the introductory videos are provided in the [prese
 **Session detail:**
 
 The tutorial will introduce our learners to basic concepts and practices necessary to build diverse and inclusive Open Source communities.
-- In the first module, we will discuss policies and actions that are important to design and promote inclusiveness Open Source projects
-- In the second module, we will introduce what Open Source Communities of Practice are, give examples, discuss how to support diverse members of Open Source Communities, and explain how we can move "from default to inclusive practices" in Open resources
-- The third module builds on the first and second modules and discusses collaborations in Open community, pathways for engagement with the contributors of Open Source and resources that make these collaborations secure, effective and community-oriented
+- In the first module, we will discuss how both system and actions that are important to design and promote inclusiveness Open Source projects
+- In the second module, we will introduce what Communities of Practice are, give examples from Open Source, discuss how we can support its diverse members and explain how we can move "from default to inclusive practices" in Open Source
+- The third module builds on the first and second modules and discusses collaborations in Open community, pathways for engagement with the contributors and resources that make these collaborations secure, effective and community-oriented
 - Finally, in the last module, we learn about decision-making processes in the Open Source communities by explaining contributor roles, structure and leadership of Open Source communities, and ways to recognise volunteers of Open Source community
 
 ### Learning outcomes
 
 In this tutorial, our learners will:
 - understand the roles of diversity and inclusion of open source communities
-- learn about the concept of Community of Practice, how they look like in different Open Source communities, who the members of these communities are and how we can intentionally design a community for participation
-- explore collaborative roles of community members, platforms that facilitate their contributions to a project, channels to attract new contributors, resources that set a common norm in the community and how to design these for inclusion
+- learn about the concept of Community of Practice, how they look like in different Open Source communities, who the members of these communities are and how we can design projects for participation
+- explore collaborative roles of community members, platforms that facilitate their contributions to a project, channels to attract new contributors and resources that set a common norm in the community
 - understanding the leadership structure of Open Source, what roles contributors play in the project development processes and how volunteers can be fairly recognised for their work
 
 ### Instructor details

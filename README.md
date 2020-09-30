@@ -50,7 +50,7 @@ In this tutorial, our learners will:
     - Biography: Malvika is the community manager of *[The Turing Way](https://the-turing-way.netlify.app)* at [The Alan Turing Institute, UK](https://www.turing.ac.uk/). She works with its community of diverse members to develop resources and ways that can make data science accessible for a wider audience.
 Malvika has a PhD in Bioinformatics and she worked at  European Molecular Biology Laboratory, Germany, that helped her solidify her values as an Open Researcher and community builder.
 She is a co-founder of the [Open Life Science](https://openlifesci.org/) mentoring program, a fellow of the [Software Sustainability Institute](https://www.software.ac.uk/) and a board member of [Open Bioinformatics Foundation](https://www.open-bio.org/event-awards/), where she focuses on training resources and fellowship programs to enhance the training, skill building and representation of marginalised groups in data science and bioinformatics.
-    - Photo: [LINK](images/MalvikaSharan.jpg)
+    - Photo: [LINK](images/MalvikaSharan.png)
 
 - Name: Gabriela de Queiroz
     - Title: Sr. Engineering & Data Science Manager
